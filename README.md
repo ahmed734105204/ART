@@ -1,4 +1,4 @@
-هل<div align="center">
+<div align="center">
 
 <a href="https://art.openpipe.ai"><picture>
 <img alt="ART logo" src="https://github.com/openpipe/art/raw/main/assets/ART_logo.png" width="160px">
